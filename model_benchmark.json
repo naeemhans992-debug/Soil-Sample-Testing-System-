@@ -1,0 +1,38 @@
+[
+  {
+    "model": "ExtraTrees",
+    "accuracy": 0.3814,
+    "macro_f1": 0.3234,
+    "train_seconds": 21.74,
+    "rows_used": 40000,
+    "full_data_refit_seconds": 35.47,
+    "trained_on_full_dataset": true
+  },
+  {
+    "model": "LogisticRegression",
+    "accuracy": 0.372,
+    "macro_f1": 0.3212,
+    "train_seconds": 66.75,
+    "rows_used": 40000,
+    "full_data_refit_seconds": 68.48,
+    "trained_on_full_dataset": true
+  },
+  {
+    "model": "RandomForest",
+    "accuracy": 0.3934,
+    "macro_f1": 0.3129,
+    "train_seconds": 21.54,
+    "rows_used": 40000,
+    "full_data_refit_seconds": 25.57,
+    "trained_on_full_dataset": true
+  },
+  {
+    "model": "LinearSVC",
+    "accuracy": 0.3919,
+    "macro_f1": 0.2891,
+    "train_seconds": 3.07,
+    "rows_used": 40000,
+    "full_data_refit_seconds": 7.81,
+    "trained_on_full_dataset": true
+  }
+]
